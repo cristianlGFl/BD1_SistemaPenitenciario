@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="SistemaPenitenciario" id="EC5B04D9-0CC4-AFDB-A22C-EBAF2BCA769F" version="3.5">
+<createdBy>Cristian</createdBy>
+<createdTime>2020-06-01 01:06:50 UTC</createdTime>
+<ownerDesignName>SistemaPenitenciario</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EC5B04D9-0CC4-AFDB-A22C-EBAF2BCA769F</designId>
+</OSDM_Design>

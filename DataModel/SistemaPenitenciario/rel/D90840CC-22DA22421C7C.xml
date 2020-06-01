@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="D90840CC-7BC5-1457-D610-22DA22421C7C" mainViewID="D7F86FFE-1CAE-4EE3-FA33-5B1A986FA22D">
+<createdBy>Cristian</createdBy>
+<createdTime>2020-06-01 01:06:52 UTC</createdTime>
+<ownerDesignName>SistemaPenitenciario</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+</relationalModel>
